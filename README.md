@@ -1,12 +1,4 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
-## Project Quirks/ Things that don't work
-* example
-* example
-* example
+# Ben Woolsey
+## Lab 8
+## Submission date: 11/5/2024
+## Help given from Lab section TA for num_check on problem 1
